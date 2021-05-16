@@ -1,0 +1,9 @@
+[package]
+name = "rust-key-derivation"
+version = "0.1.0"
+
+[dependencies]
+tiny-bip39 = "0.7.3"
+hdwallet = "0.2.5"
+rust-crypto = "0.2.36"
+eth_checksum = "0.1.1"
